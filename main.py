@@ -5,7 +5,7 @@ from score import Score
 from outline import Decorate
 import time
 
-
+# adding a comment
 PLAYER_1_SCORE = 0
 PLAYER_2_SCORE = 0
 POSITIONS = ((0, 315), (0, 285), (0, 0))
